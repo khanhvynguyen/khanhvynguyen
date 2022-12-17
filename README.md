@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vy Nguyen, a Master's student in Data Analytics at Northeastern University
+- 👋 Hi, I’m Vy Nguyen, a Masters student in Data Analytics at Northeastern University
 - 👀 I’m interested in Data Analytics and Data Science
 - 📫 You can reach me at nguyen.vy7 [at] northeastern [dot] edu
 <!---
